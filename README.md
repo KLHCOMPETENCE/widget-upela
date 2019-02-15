@@ -2,13 +2,13 @@
 
 ## Introduction
 
-This tutorial shows you how to add a simple Upela Widget with to a web page. It suits people with beginner or intermediate knowledge of HTML and CSS, and a little knowledge of JavaScript.
+This tutorial shows you how to add a simple Upela Widget to a web page. It suits people with beginner or intermediate knowledge of HTML and CSS, and a little knowledge of JavaScript.
 
 Below is the widget you'll create using this tutorial. 
 
 ![Upela Widget](https://s3-eu-west-1.amazonaws.com/widget.upela.com/images/widget.png)
 
-The section below displays the entire code you need to create the map in this tutorial.
+The section below displays the entire code you need to create the widget in this tutorial.
 
 
 ## Try it yourself
