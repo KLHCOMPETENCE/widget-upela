@@ -27,14 +27,14 @@ The section below displays the entire code you need to create the map in this tu
     <div id="upela-widget"></div>  
     <script>  
       var info = {  
-            "key": "5bc661-731cf7-64B54L-T5HF2R",  
+            "key": "5bc66-731cf-64B54-T5HF2",  
       "debug": false,  
       "target": "upela-widget",  
       "addressValitation":true,  
       "order": {  
                 "lang": "fr",  
       "currency": "EUR",  
-      "call_back": "http://dev.klh-competence.com/checkNpi/index.php",  
+      "call_back": "http://xxx.xx.com",  
       "context": {"extraData": "5452","shaqId": "FR458D562","otherData":"test"},  
       "bootstrap":true,  
       "token": false,  
