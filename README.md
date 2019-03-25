@@ -173,6 +173,7 @@ The initWidget function can take 3 parameters
 |info|object| the info object of your shipment
 |callBackOnRate|Function|a callable function that ll be triger on rateSuccess
 |callBackOnShip|Function|a callable function that ll be triger on ship Success
+|primaryColor|string|a css color that ll replace the choose button color on the widget
 
 ## The Shipment Result
 
