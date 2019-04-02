@@ -18,7 +18,7 @@ The section below displays the entire code you need to create the widget in this
     <html>  
     <head>  
       <!--Load the API from the specified URL  
-     * The async attribute allows the browser to render the page while the API loads -->  <script async defer type="text/javascript" src="https://http://widget.upela.com/assets/js/upelawidget.min.js"></script>  
+     * The async attribute allows the browser to render the page while the API loads -->  <script async defer type="text/javascript" src="https://widget.upela.com/assets/js/upelawidget.min.js"></script>  
     </head>  
     <body>  
     <h3>My Upela Widget Demo</h3>  
